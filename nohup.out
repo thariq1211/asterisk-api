@@ -1,0 +1,1035 @@
+
+> asterisk-api@0.1.0 start /root/asterisk-api
+> NODE_ENV=production node server.js
+
+> Ready on https://localhost:3007
+{ queue: 'ekyc' }
+TypeError: Cannot read property 'response' of undefined
+    at QueueAntrian (/root/asterisk-api/.next/server/pages/api/antrian/[queue].js:78:45)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async Object.apiResolver (/root/asterisk-api/node_modules/next/dist/server/api-utils.js:102:9)
+    at async Server.handleApiRequest (/root/asterisk-api/node_modules/next/dist/server/next-server.js:1014:9)
+    at async Object.fn (/root/asterisk-api/node_modules/next/dist/server/next-server.js:901:37)
+    at async Router.execute (/root/asterisk-api/node_modules/next/dist/server/router.js:210:32)
+    at async Server.run (/root/asterisk-api/node_modules/next/dist/server/next-server.js:1085:29)
+    at async Server.handleRequest (/root/asterisk-api/node_modules/next/dist/server/next-server.js:305:20)
+
+> asterisk-api@0.1.0 start /root/asterisk-api
+> NODE_ENV=production node server.js
+
+> Ready on https://localhost:3007
+{ queue: 'ekyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+
+> asterisk-api@0.1.0 start /root/asterisk-api
+> NODE_ENV=production node server.js
+
+> Ready on https://localhost:3007
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='0' holdtime='7' talktime='106' completed='10' abandoned='10' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637033765' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='2' /></response>
+</ajax-response>
+
+null
+{
+  event: 'QueueParams',
+  queue: 'kyc',
+  max: '0',
+  strategy: 'rrmemory',
+  calls: '0',
+  holdtime: '7',
+  talktime: '106',
+  completed: '10',
+  abandoned: '10',
+  servicelevel: '0',
+  servicelevelperf: '0.0',
+  servicelevelperf2: '0.0',
+  weight: '0'
+}
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ queue: 'ekyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ queue: 'ekyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{ user: 'client', passw: 'cleint123' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{
+  response: 'Success',
+  eventlist: 'start',
+  message: 'Queue status will follow'
+}
+{ queue: 'ekyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='0' /></response>
+</ajax-response>
+
+null
+{ queue: 'kyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='1' holdtime='7' talktime='106' completed='10' abandoned='12' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637034930' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueEntry' queue='kyc' position='1' channel='PJSIP/500-00000034' uniqueid='1637034916.88' calleridnum='500*1637034916.88' calleridname='test' connectedlinenum='unknown' connectedlinename='unknown' wait='14' priority='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='3' /></response>
+</ajax-response>
+
+null
+{ queue: 'kyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='0' holdtime='7' talktime='106' completed='10' abandoned='13' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637034937' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='2' /></response>
+</ajax-response>
+
+null
+{ queue: 'kyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='1' holdtime='7' talktime='106' completed='10' abandoned='13' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637034970' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueEntry' queue='kyc' position='1' channel='PJSIP/4000-00000035' uniqueid='1637034959.90' calleridnum='4000*1637034959.90' calleridname='unknown' connectedlinenum='unknown' connectedlinename='unknown' wait='12' priority='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='3' /></response>
+</ajax-response>
+
+null
+{ queue: 'kyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='0' holdtime='7' talktime='106' completed='10' abandoned='14' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637034988' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='2' /></response>
+</ajax-response>
+
+null
+{ queue: 'kyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='0' holdtime='7' talktime='106' completed='10' abandoned='14' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637034988' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='2' /></response>
+</ajax-response>
+
+null
+{ queue: 'kyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='0' holdtime='7' talktime='106' completed='10' abandoned='14' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637034988' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='2' /></response>
+</ajax-response>
+
+null
+{ queue: 'kyc' }
+<ajax-response>
+<response type='object' id='unknown'><generic response='Success' eventlist='start' message='Queue status will follow' /></response>
+<response type='object' id='unknown'><generic event='QueueParams' queue='kyc' max='0' strategy='rrmemory' calls='0' holdtime='7' talktime='106' completed='10' abandoned='14' servicelevel='0' servicelevelperf='0.0' servicelevelperf2='0.0' weight='0' /></response>
+<response type='object' id='unknown'><generic event='QueueMember' queue='kyc' name='PJSIP/100' location='PJSIP/100' stateinterface='PJSIP/100' membership='static' penalty='0' callstaken='1' lastcall='1636715313' lastpause='1637034988' incall='0' status='5' paused='1' pausedreason='' wrapuptime='0' /></response>
+<response type='object' id='unknown'><generic event='QueueStatusComplete' eventlist='Complete' listitems='2' /></response>
+</ajax-response>
+
+null
